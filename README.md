@@ -1,5 +1,9 @@
 # Udagram Image Filtering Microservice
 
+Endpoint link:
+http://udagram-yasir-dev-dev.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg
+
+
 ## Tasks
 
 ### Setup Node Environment
@@ -38,3 +42,4 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
